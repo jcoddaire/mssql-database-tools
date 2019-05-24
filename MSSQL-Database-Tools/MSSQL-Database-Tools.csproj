@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>MSSQL_Database_Tools.BackupDB</RootNamespace>
+    <AssemblyName>MSSQL-Database-Tools.BackupDB</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MSSQL-Database-Tools.Core\MSSQL-Database-Tools.Core.csproj" />
+  </ItemGroup>
+
+</Project>

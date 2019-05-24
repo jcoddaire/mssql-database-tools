@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSQL-Database-Tools", "MSSQL-Database-Tools\MSSQL-Database-Tools.csproj", "{C1B0351F-62BD-4C28-982C-7D14DA00A728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSQL-Database-Tools.Core", "MSSQL-Database-Tools.Core\MSSQL-Database-Tools.Core.csproj", "{1D07F922-2287-46D3-AF8B-736AB1F5CF10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSQL-Database-Tools.Test", "MSSQL-Database-Tools.Test\MSSQL-Database-Tools.Test.csproj", "{E8542416-034F-4272-9AE8-F8A7740C1FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B0351F-62BD-4C28-982C-7D14DA00A728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B0351F-62BD-4C28-982C-7D14DA00A728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B0351F-62BD-4C28-982C-7D14DA00A728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B0351F-62BD-4C28-982C-7D14DA00A728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D07F922-2287-46D3-AF8B-736AB1F5CF10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D07F922-2287-46D3-AF8B-736AB1F5CF10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D07F922-2287-46D3-AF8B-736AB1F5CF10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D07F922-2287-46D3-AF8B-736AB1F5CF10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8542416-034F-4272-9AE8-F8A7740C1FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8542416-034F-4272-9AE8-F8A7740C1FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8542416-034F-4272-9AE8-F8A7740C1FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8542416-034F-4272-9AE8-F8A7740C1FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289CF8F8-8557-416D-B1FC-E44F3AE037A4}
+	EndGlobalSection
+EndGlobal
